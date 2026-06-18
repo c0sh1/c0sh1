@@ -71,7 +71,7 @@ If you're looking for someone hungry to grow, contribute, and give 100% — let'
 | 🔜 | Coming soon | Data cleaning & EDA | Python · Pandas |
 | 🔜 | Coming soon | Interactive dashboard | Power BI |
 | 🔜 | Coming soon | End-to-end data pipeline | Microsoft Fabric · SQL |
-| 🔜 | Coming soonInteractive data appPython · Streamlit
+| 🔜 | Coming soon | Interactive | data appPython · Streamlit
 ---
 
 ##  GitHub Activity
